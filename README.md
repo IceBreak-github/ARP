@@ -11,7 +11,7 @@ Then locate the script and run in command line...
 
 ``` python ARP_spoofer.py -h ```
 
-- if you are on Linux, make sure to run the script with sudo for it to work
+- If you are on Linux, make sure to run the script with sudo for it to work.
 
 
 
